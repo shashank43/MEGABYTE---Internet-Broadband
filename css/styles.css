@@ -1,0 +1,128 @@
+/* HTML element */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 2vw;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-size: 25px;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+/* Sections */
+.colored-section {
+    background-color: crimson;
+    color: white;
+}
+
+.white-section {
+    color: black;
+}
+
+/* Title Section */
+.title-div {
+    padding: 10% 10% 3%;
+}
+
+.big-heading {
+    font-weight: 500;
+    font-size: 4vw;
+}
+
+.download-our-app {
+    font-size: 1.5vw;
+    margin: 5% auto 0;
+}
+
+.btn-app-store:hover {
+    transform: scale(1.1);
+}
+
+.download-btn {
+    font-size: 2vw;
+    margin: 2% 3% 5% 0%;
+}
+
+/* Features Section */
+#features {
+    padding-top: 30px;
+}
+
+.features-row {
+    margin: 0;
+    padding: 0;
+}
+
+.features-img {
+    width: 30%;
+}
+
+.img-check {
+    padding-top: 30px;
+    width: 20%;
+}
+
+.features-desc {
+    padding: 40px;
+    font-size: 150%;
+}
+
+.speed-desc {
+    padding-top: 20px;
+}
+
+/* Pictures Section */
+.pictures-desc {
+    margin: auto auto;
+    padding: 20px;
+    font-size: 150%;
+}
+
+.carousel-item {
+    padding: 5% 10%;
+}
+
+/* Pricing Section */
+#pricing {
+    padding: 50px 100px;
+}
+
+.section-heading {
+    font-size: 3vw;
+}
+
+.pricing-col {
+    padding: 3% 2% 0%;
+}
+
+/* High speed internet */
+#highspeedinternet {
+    padding: 5%;
+}
+
+.highspeedinternet-list {
+    font-size: 1.5vw;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    padding: 1%;
+}
+
+.contact-icon {
+    font-size: 2vw;
+    padding: 1%;
+}
+
+/*Google Fonts
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
